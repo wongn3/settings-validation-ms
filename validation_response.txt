@@ -1,4 +1,1 @@
-input_volume=70
-new_volume=70
-input_brush_size=-3
-new_brush_size=1
+
