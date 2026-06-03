@@ -1,0 +1,2 @@
+volume=70
+brush_size=-3
